@@ -2,7 +2,6 @@
   "name": "dispatch-test",
   "version": "0.1.0",
   "private": true,
-  "name": "viksit",
   "description": "Dispatch component test",
   "author": "viksit",
   "keywords": ["react", "components", "ui"],
